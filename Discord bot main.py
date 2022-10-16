@@ -1,4 +1,4 @@
-#token ='MTAyOTUwODgyNDU5MzM1MDc1Nw.GpG5Yv.OYczVf5INmzi3ynRBdBgKQxa3J47YBojWfnWBY'
+#token ='stfu7YBojWfnWBY'
 
 import discord
 from discord import File
